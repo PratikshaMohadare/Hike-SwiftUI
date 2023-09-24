@@ -11,4 +11,6 @@ But not only that, this mini-application has some amazing built-in features as w
 
 Overall this project is an impressive Card app with such a settings screen where users will be able to change the icon of the application.
 
+<img width="1186" alt="Screenshot 2023-09-24 at 6 58 49 PM" src="https://github.com/PratikshaMohadare/Hike-SwiftUI/assets/26920477/edb091ec-28fe-4873-9fb7-ef9204784751">
+
 This project was developed as an instructor guided program by https://credo.academy 
